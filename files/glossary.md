@@ -98,7 +98,10 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## SEO
-
+SEO stands for Search Engine Optimization. The puropse of SEO is to be one of the first search results that are provided by a search engine. When someone uses a search engine most people only use the first couple of results, so the websites that are the first get a lot more web traffic then other websites that are near the bottom of the result lists. SEO is a powerful tool for many comapnies and busineses because it provides a lot of free exposure for their business. The way search engines recomend websites is by estimating the reliability and quality of the website and how relevent it is to the search so by improving a website in those areas it is able to ascend the search results.
+- [Investopedia](https://www.investopedia.com/terms/s/seo-search-engine-optimization.asp)
+- [Techopedia](https://www.techopedia.com/definition/5391/search-engine-optimization-seo)
+- [Lyfe Marketing](https://www.lyfemarketing.com/blog/what-is-seo-and-how-it-works/)
 
 ## PHP
 
